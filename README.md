@@ -11,6 +11,6 @@ Soy tecnico en electronica industrial y un entusiasta del software hace mas de 6
 
 ## Contactame en:
 [![Linkedin](https://img.shields.io/badge/linkedin-andresfernandezp94-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/andresfernandezp94)
-[![Facebook](https://img.shields.io/badge/andresfernandezp94-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/andresfernandezp94/)
-[![Instagram](https://img.shields.io/badge/@andresfernandezp94-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/andresfernandezp94/)
+[![Facebook](https://img.shields.io/badge/Facebook-andresfernandezp94-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/andresfernandezp94/)
+[![Instagram](https://img.shields.io/badge/Instagram-@andresfernandezp94-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/andresfernandezp94/)
 [![Twitter](https://img.shields.io/badge/Twitter-@Andres_Ferdz-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](twitter.com/Andres_Ferdz)
