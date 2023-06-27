@@ -2,7 +2,7 @@
 ### Freelance Fronted Developer
 
 
-Soy tecnico en electronica industrial y un entusiasta del software, vengo aprendiendo del mundo de la programacion web en el area del fronted.
+Soy tecnico en electronica industrial y un entusiasta del software.
 
 ## Tecnologías:
 ![HTML](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
