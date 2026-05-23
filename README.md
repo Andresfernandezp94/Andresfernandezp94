@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Andres 👋
 
-<!--
-**Andresfernandezp94/Andresfernandezp94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Platform Engineer with experience across the full data lifecycle —
+from cloud infrastructure and ETL automation to BI solutions and analytics.
 
-Here are some ideas to get you started:
+## 🛠️ Tech I work with
+- **Cloud:** AWS
+- **Data & BI:** SQL Server, Power BI, Athena, Glue, Quicksight.
+- **Frontend:** React, Astro, CSS, Tailwind.
+- **Backend & Dev:** Python, Node.js, Docker, REST APIs
+- **Dev tools:** Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently
+Building open source tools focused on data engineering and developer productivity.
+
+## 📫 Let's connect
+Open to collaborations, feedback, and interesting projects.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andresfernandezp94)
