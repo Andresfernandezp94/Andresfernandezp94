@@ -10,8 +10,7 @@ from cloud infrastructure and ETL automation to BI solutions and analytics.
 ## 🛠️ My current stack
 
 - **Cloud:**
-    - AWS:
-    -   _(RDS, Lambda, EventBridge, S3, DynamoDB, EC2, Athena, Glue, QuickSight, API Gateway, Cognito, CloudFormation, Amplify)_
+    - AWS:_RDS, Lambda, EventBridge, S3, DynamoDB, EC2, Athena, Glue, QuickSight, API Gateway, Cognito, CloudFormation, Amplify_
 - **Data & BI:** SQL Server, Power BI, ETL Pipelines, KPI Automation
 - **Contact Center Analytics:** Genesys Cloud
 - **Frontend:** React, Astro, CSS, Tailwind
